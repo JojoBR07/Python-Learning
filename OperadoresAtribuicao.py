@@ -5,7 +5,7 @@
 
 Esse operadores de atribução
 são exemplos de uso
-mas que mesmo sendo simples
+mas mesmo sendo simples
 achei interressante deixalos
 anotados, hehe
 
