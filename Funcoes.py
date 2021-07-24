@@ -20,5 +20,8 @@ def vazio():
 def saudacao(nome, dia = 20):
     print(f'Bom Dia {nome} \n Hoje é dia {dia}')
 
-if __name__ == '__main__':
+if __name__ == '__main__': #O arquivo só é main quando é executado como principal
     saudacao('Joilson')
+
+def soma(a, b):
+    return a + b
